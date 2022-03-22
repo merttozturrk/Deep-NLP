@@ -1,0 +1,9 @@
+The format of the dataset is shared below. Dataset will be available upon reasonable request.
+
+mail: mertozturk@sabanciuniv.edu
+
+negative = "id_str":tweet_id,"tweet":"This is a negative tweet","label":0
+
+neutral = "id_str":tweet_id,"tweet":"This is a neutral tweet","label":1
+
+positive = "id_str":tweet_id,"tweet":"This is a positive tweet","label":2
